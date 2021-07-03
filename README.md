@@ -8,8 +8,6 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month ( October-2020 )
 - **Internship Type** - Work from Home
 
-In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
-
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png>](https://github.com/riyasoni1/The-Sparks-Foundation/blob/main/Prediction%20Using%20Supervised%20Learning.ipynb)
 
 
