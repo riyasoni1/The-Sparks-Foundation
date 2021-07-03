@@ -24,4 +24,4 @@ _Please click on the images on right side to view my solution._
 
 Connect with me:
 [<img align = left height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Github_social_media_logo-512.png>](https://github.com/riyasoni1)
-[<<img align = left height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png>](https://www.linkedin.com/in/riyasoni7/)
+[<img align = left height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png>](https://www.linkedin.com/in/riyasoni7/)
